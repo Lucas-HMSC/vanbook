@@ -1,0 +1,11 @@
+.menu {
+	padding: 30px 0;
+}
+
+.menu nav ul li {
+	display: inline-block;
+}
+
+.menu nav ul li a {
+	color: #29383e;
+}

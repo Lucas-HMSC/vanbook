@@ -1,3 +1,3 @@
 # Vanbook
 
-## Curso de UX Design Heurísticas na Origamid, com o professor André Rafael.
+### Curso de UX Design Heurísticas na Origamid, com o professor André Rafael.

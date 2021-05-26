@@ -27,7 +27,7 @@ body {
 
 /* Planos */
 .planos {
-	background: linear-gradient(135deg, #01a7ec, #0186bd);
+	background: url('../img/pattern.png'), linear-gradient(135deg, #01a7ec, #0186bd);
 }
 
 .planos .container {
